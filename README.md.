@@ -1,6 +1,0 @@
-Golangで.envファイルを使うためのサンプル。
-参考：https://github.com/joho/godotenv
-
-godotenv:.envファイルを読み込むためのライブラリ
-
-使い方はmain.goを参照。
